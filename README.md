@@ -2,9 +2,7 @@
 
 🚀 B.Tech Data Science with AI | Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+with+AI+Student;Python+%7C+C%2B%2B+%7C+C;DSA+%26+Problem+Solving;Building+Projects+and+Learning+Every+Day" /><p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p></div>---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+with+AI+Student;C+%7C+C%2B%2B+%7C+Python;Web+Development+%7C+SQL;DSA+%26+Problem+Solving;Learning+Data+Science+%26+Machine+Learning" /></div>---
 
 🧑‍💻 About Me
 
@@ -12,22 +10,51 @@
 🏫 Arya College of Engineering and IT, Jaipur
 📊 CGPA: 8.3/10
 💻 Interested in Software Engineering & Data Science
-🐍 Learning and improving Python
 🧠 Building strong foundations in DSA & Problem Solving
 📚 Pursuing NPTEL – Python for Data Science
 🏆 Coordinator – Carrom Club
 
 ---
 
-🛠️ Tech Stack
+🛠️ Skills & Technologies
 
-<div align="center">💻 Programming
+💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c" />🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>C • C++ • Python
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />🔧 Tools
+🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /></div>---
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>HTML • CSS • JavaScript
+
+🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>SQL • MySQL • Database Fundamentals
+
+🐍 Python Libraries
+
+NumPy • Pandas • Matplotlib
+
+📊 Data Science & AI
+
+Data Analysis • Data Science Fundamentals • Machine Learning — Learning
+
+🧠 DSA & CS Fundamentals
+
+Data Structures • Algorithms • Problem Solving • OOP • DBMS Fundamentals
+
+🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>Git • GitHub • VS Code
+
+---
 
 🚀 Featured Projects
 
@@ -60,72 +87,67 @@ Tech: "Python"
 
 ---
 
-🧠 DSA & Competitive Programming
+🧠 DSA & Problem Solving
 
-<div align="center">📌 Platform| 📊 Progress
+<div align="center">Platform| Progress
 LeetCode| 14+ Problems
 DSA| Fundamentals
 Languages| C / C++ / Python
 
-</div>Currently focusing on:
+</div>Currently working on:
 
-Arrays
-  ↓
-Strings
-  ↓
-Searching & Sorting
-  ↓
-Linked Lists
-  ↓
-Stacks & Queues
-  ↓
-Trees
-  ↓
-Advanced DSA
+"Arrays" → "Strings" → "Searching & Sorting" → "Linked Lists" → "Stacks & Queues" → "Trees"
 
 ---
 
 📚 Currently Learning
 
-🐍 Python → 📊 Data Science → 🤖 Machine Learning
+Python
+   ↓
+DSA & Problem Solving
+   ↓
+SQL & Database
+   ↓
+Data Science
+   ↓
+Machine Learning
+   ↓
+Real-World Projects
 
-Currently pursuing:
-
-NPTEL – Python for Data Science
-
-My learning approach:
-
-«Learn → Practice → Build → Debug → Improve 🔥»
+📖 NPTEL – Python for Data Science
 
 ---
 
-📈 GitHub Stats
+📊 GitHub Statistics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" /><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" /></div>---
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="90%"/><br><br>
 
-🏆 Goals
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" width="48%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" width="48%"/></div>---
+
+🎯 Career Goals
 
 ✅ Strengthen Programming Fundamentals
 ✅ Master DSA
 🔄 Build Real-World Projects
 🔄 Improve Data Science Skills
 🔄 Learn Machine Learning
+🔄 Improve SQL & Database Skills
 🎯 Prepare for Top-Tier Placements
 
 ---
 
-🤝 Leadership & Activities
+🏆 Leadership
 
-🏆 Coordinator – Carrom Club
+Coordinator – Carrom Club
 
 - Coordinate club activities
 - Assist in organizing events
-- Work with team members
+- Collaborate with team members
 - Develop leadership and communication skills
 
 ---
 
-💬 Connect With Me
+📫 Connect With Me
 
 <div align="center"><a href="mailto:princebrahman0052@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -137,6 +159,6 @@ My learning approach:
 
 <div align="center">⭐ Thanks for visiting my profile!
 
-Learning today. Building tomorrow. 🚀
+Learn • Build • Practice • Improve 🚀
 
 </div>
