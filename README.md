@@ -1,6 +1,6 @@
 <div align="center">👋 Hi, I'm Prince Kaushik
 
-🚀 B.Tech Data Science with AI | Aspiring Software Engineer
+🚀 B.Tech Data Science with AI | Aspiring Data Science and Analysis Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+with+AI+Student;C+%7C+C%2B%2B+%7C+Python;Web+Development+%7C+SQL;DSA+%26+Problem+Solving;Learning+Data+Science+%26+Machine+Learning" /></div>---
 
@@ -42,7 +42,7 @@ NumPy • Pandas • Matplotlib
 
 📊 Data Science & AI
 
-Data Analysis • Data Science Fundamentals • Machine Learning — Learning
+Data Analysis • Data Science Fundamentals • Machine Learning — Learning • Generative Ai • LLM • Deep Learning
 
 🧠 DSA & CS Fundamentals
 
@@ -120,9 +120,9 @@ Real-World Projects
 
 📊 GitHub Statistics
 
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="90%"/><br><br>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princebrahman052-debug&theme=github_dark" width="90%"/><br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" width="48%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" width="48%"/></div>---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=princebrahman052-debug&theme=github_dark" width="48%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princebrahman052-debug&theme=github_dark" width="48%"/></div>---
 
 🎯 Career Goals
 
@@ -151,9 +151,7 @@ Coordinator – Carrom Club
 
 <div align="center"><a href="mailto:princebrahman0052@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/">
+</a><a href="https://github.com/princebrahman052-debug">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></div>---
 
