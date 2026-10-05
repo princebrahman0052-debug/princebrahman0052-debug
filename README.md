@@ -118,12 +118,6 @@ Real-World Projects
 
 ---
 
-📊 GitHub Statistics
-
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princebrahman052-debug&theme=github_dark" width="90%"/><br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=princebrahman052-debug&theme=github_dark" width="48%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princebrahman052-debug&theme=github_dark" width="48%"/></div>---
-
 🎯 Career Goals
 
 ✅ Strengthen Programming Fundamentals
